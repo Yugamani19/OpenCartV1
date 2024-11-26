@@ -1,0 +1,69 @@
+15:34:20.427 [main] INFO  testCases.TC001_AccountRegisterationTest -** Registeration Page **
+15:34:21.400 [main] INFO  testCases.TC001_AccountRegisterationTest -** Agreed **
+15:34:22.147 [main] INFO  testCases.TC001_AccountRegisterationTest -** Continued **
+15:34:22.148 [main] INFO  testCases.TC001_AccountRegisterationTest -** Message Validation **
+15:34:22.250 [main] INFO  testCases.TC001_AccountRegisterationTest -** Test Completed **
+15:34:24.026 [main] INFO  testCases.TC002_LoginTest -** Starting TC002 Login Test
+15:34:25.958 [main] INFO  testCases.TC002_LoginTest -** meessage validation **
+15:34:25.961 [main] INFO  testCases.TC002_LoginTest -** meessage validation completed**
+15:34:25.961 [main] INFO  testCases.TC002_LoginTest -** TC002_Login Test Finished
+15:34:35.827 [main] INFO  testCases.TC001_AccountRegisterationTest -** TC1 Started **
+15:34:36.966 [main] INFO  testCases.TC001_AccountRegisterationTest -** Home Page **
+15:34:36.967 [main] INFO  testCases.TC001_AccountRegisterationTest -** Registeration Page **
+15:34:38.031 [main] INFO  testCases.TC001_AccountRegisterationTest -** Agreed **
+15:34:38.661 [main] INFO  testCases.TC001_AccountRegisterationTest -** Continued **
+15:34:38.661 [main] INFO  testCases.TC001_AccountRegisterationTest -** Message Validation **
+15:34:38.712 [main] INFO  testCases.TC001_AccountRegisterationTest -** Test Completed **
+15:34:43.899 [main] INFO  testCases.TC002_LoginTest -** Starting TC002 Login Test
+15:34:45.838 [main] INFO  testCases.TC002_LoginTest -** meessage validation **
+15:34:45.840 [main] INFO  testCases.TC002_LoginTest -** meessage validation completed**
+15:34:45.840 [main] INFO  testCases.TC002_LoginTest -** TC002_Login Test Finished
+12:43:52.027 [main] DEBUG org.testng.TestNG -suiteXmlPath: "/Users/yugamanis/eclipse-workspace/OpenCartV1/master.xml"
+12:45:00.869 [main] DEBUG org.testng.TestNG -suiteXmlPath: "/Users/yugamanis/eclipse-workspace/OpenCartV1/master.xml"
+12:45:19.105 [main] INFO  testCases.TC001_AccountRegisterationTest -** TC1 Started **
+12:45:19.767 [main] INFO  testCases.TC001_AccountRegisterationTest -** Home Page **
+12:45:19.774 [main] INFO  testCases.TC001_AccountRegisterationTest -** Registeration Page **
+12:45:20.426 [main] INFO  testCases.TC001_AccountRegisterationTest -** Agreed **
+12:45:21.331 [main] INFO  testCases.TC001_AccountRegisterationTest -** Continued **
+12:45:21.331 [main] INFO  testCases.TC001_AccountRegisterationTest -** Message Validation **
+12:45:21.398 [main] INFO  testCases.TC001_AccountRegisterationTest -** Test Completed **
+12:45:25.662 [main] INFO  testCases.TC002_LoginTest -** Starting TC002 Login Test
+12:45:26.958 [main] INFO  testCases.TC002_LoginTest -** meessage validation **
+12:45:26.961 [main] INFO  testCases.TC002_LoginTest -** meessage validation completed**
+12:45:26.961 [main] INFO  testCases.TC002_LoginTest -** TC002_Login Test Finished
+14:27:05.103 [main] DEBUG org.testng.TestNG -suiteXmlPath: "/Users/yugamanis/eclipse-workspace/OpenCartV1/master.xml"
+14:27:14.079 [main] INFO  testCases.TC001_AccountRegisterationTest -** TC1 Started **
+14:27:14.657 [main] INFO  testCases.TC001_AccountRegisterationTest -** Home Page **
+14:27:14.661 [main] INFO  testCases.TC001_AccountRegisterationTest -** Registeration Page **
+14:27:15.270 [main] INFO  testCases.TC001_AccountRegisterationTest -** Agreed **
+14:27:15.933 [main] INFO  testCases.TC001_AccountRegisterationTest -** Continued **
+14:27:15.934 [main] INFO  testCases.TC001_AccountRegisterationTest -** Message Validation **
+14:27:15.975 [main] INFO  testCases.TC001_AccountRegisterationTest -** Test Completed **
+14:27:18.932 [main] INFO  testCases.TC002_LoginTest -** Starting TC002 Login Test
+14:27:20.169 [main] INFO  testCases.TC002_LoginTest -** meessage validation **
+14:27:20.171 [main] INFO  testCases.TC002_LoginTest -** meessage validation completed**
+14:27:20.171 [main] INFO  testCases.TC002_LoginTest -** TC002_Login Test Finished
+14:52:16.152 [main] DEBUG org.testng.TestNG -suiteXmlPath: "/Users/yugamanis/eclipse-workspace/OpenCartV1/master.xml"
+14:52:21.749 [main] INFO  testCases.TC001_AccountRegisterationTest -** TC1 Started **
+14:52:22.216 [main] INFO  testCases.TC001_AccountRegisterationTest -** Home Page **
+14:52:22.220 [main] INFO  testCases.TC001_AccountRegisterationTest -** Registeration Page **
+14:52:22.791 [main] INFO  testCases.TC001_AccountRegisterationTest -** Agreed **
+14:52:23.402 [main] INFO  testCases.TC001_AccountRegisterationTest -** Continued **
+14:52:23.403 [main] INFO  testCases.TC001_AccountRegisterationTest -** Message Validation **
+14:52:23.440 [main] INFO  testCases.TC001_AccountRegisterationTest -** Test Completed **
+14:52:26.255 [main] INFO  testCases.TC002_LoginTest -** Starting TC002 Login Test
+14:52:27.535 [main] INFO  testCases.TC002_LoginTest -** meessage validation **
+14:52:27.537 [main] INFO  testCases.TC002_LoginTest -** meessage validation completed**
+14:52:27.537 [main] INFO  testCases.TC002_LoginTest -** TC002_Login Test Finished
+14:55:39.011 [main] DEBUG org.testng.TestNG -suiteXmlPath: "/Users/yugamanis/eclipse-workspace/OpenCartV1/master.xml"
+14:55:45.284 [main] INFO  testCases.TC001_AccountRegisterationTest -** TC1 Started **
+14:55:45.922 [main] INFO  testCases.TC001_AccountRegisterationTest -** Home Page **
+14:55:45.926 [main] INFO  testCases.TC001_AccountRegisterationTest -** Registeration Page **
+14:55:46.504 [main] INFO  testCases.TC001_AccountRegisterationTest -** Agreed **
+14:55:47.339 [main] INFO  testCases.TC001_AccountRegisterationTest -** Continued **
+14:55:47.342 [main] INFO  testCases.TC001_AccountRegisterationTest -** Message Validation **
+14:55:47.380 [main] INFO  testCases.TC001_AccountRegisterationTest -** Test Completed **
+14:55:50.263 [main] INFO  testCases.TC002_LoginTest -** Starting TC002 Login Test
+14:55:51.418 [main] INFO  testCases.TC002_LoginTest -** meessage validation **
+14:55:51.422 [main] INFO  testCases.TC002_LoginTest -** meessage validation completed**
+14:55:51.422 [main] INFO  testCases.TC002_LoginTest -** TC002_Login Test Finished

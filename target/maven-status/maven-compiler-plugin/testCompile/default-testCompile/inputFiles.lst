@@ -1,0 +1,12 @@
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/pageObjects/AccountRegisterationPage.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/pageObjects/BasePage.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/pageObjects/HomePage.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/pageObjects/LoginPage.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/pageObjects/MyAccountPage.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/testBase/BaseClass.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/testCases/TC001_AccountRegisterationTest.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/testCases/TC002_LoginTest.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/testCases/TC003_LoginDDT.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/utilities/DataProviders.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/utilities/ExcelUtils.java
+/Users/yugamanis/eclipse-workspace/OpenCartV1/src/test/java/utilities/ExtentReportManager.java
